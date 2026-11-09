@@ -7,10 +7,10 @@
   resolved "https://registry.yarnpkg.com/@bufbuild/protobuf/-/protobuf-2.17.0.tgz#231e87fc12d859bf95166890e9cebd64ac362810"
   integrity sha512-hcPkSz6D7MiTU/5VBBhK+kxaYDoOdQ6yJRFJ3kS8Nydp+VZXfg1vrpABKPNod8bXMufsVCmiUJVIKFzCzta4uw==
 
-"@nestjs/microservices@^11.1.13":
-  version "11.2.9"
-  resolved "https://registry.yarnpkg.com/@nestjs/microservices/-/microservices-11.2.9.tgz#66b34ac10ef2894bfafaa8d2a2320ffd93962e98"
-  integrity sha512-RZMg4uH3RNMPYtBrh4BFkxc1UQs0O3dXGD5OCgzReX1CY+nilbYS+8eVcRtYgNLiFtSWCKyxMlGQbMEEAg4lLA==
+"@nestjs/microservices@12.0.3":
+  version "12.0.3"
+  resolved "https://registry.yarnpkg.com/@nestjs/microservices/-/microservices-12.0.3.tgz#6a351a3b6562520f2febd5e073159a57180f57f5"
+  integrity sha512-Qpie7VcC0TrQeHeiyGMB2t9IBSx9obq/+VbQqzq3XM5PZRr1Tx/Vhag2TOaxM77hBJmS1ku1c3CICT9+zsP+yg==
   dependencies:
     iterare "1.2.1"
     tslib "2.8.1"
